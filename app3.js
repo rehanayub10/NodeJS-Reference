@@ -31,7 +31,7 @@ rl.question(`What is ${num1} + ${num2}? \n`,
      }
  });
 
- //line event continues indefinitely
+ //line event continues indefinitely - executed whenever the user presses Enter
 
  rl.on('close', () => {
      console.log('Correct!');
