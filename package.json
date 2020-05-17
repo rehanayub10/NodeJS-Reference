@@ -1,0 +1,19 @@
+{
+  "name": "nodejsref",
+  "version": "1.0.0",
+  "description": "tutorial",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rehanayub10/NodeJS-Reference.git"
+  },
+  "author": "Rehan Ayub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rehanayub10/NodeJS-Reference/issues"
+  },
+  "homepage": "https://github.com/rehanayub10/NodeJS-Reference#readme"
+}
