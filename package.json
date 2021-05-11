@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/rehanayub10/NodeJS-Reference#readme",
   "dependencies": {
-    "lodash": "^4.17.15" // major.minor.patch
+    "lodash": "^4.17.21" // major.minor.patch
     //^ 4.x.x
     // ~ 4.17.x
     // NO 4.17.11
